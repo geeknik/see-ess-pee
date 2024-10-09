@@ -29,6 +29,9 @@ Analyze a list of URLs:
 python main.py -u https://example.com https://hackerone.com https://bugcrowd.com
 ```
 
+![CleanShot 2024-10-09 at 16 30 06@2x](https://github.com/user-attachments/assets/88e9250f-0ef7-41cd-b2f2-95d9e10688cd)
+
+
 Analyze URLs from a file:
 
 ```bash
